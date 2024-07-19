@@ -22,7 +22,7 @@ Command-Line Arguments
 - -l or --load_model: Load model weights (use 1 to enable).
 - -w or --save_weights: Path for saving/loading weights.
 
--Examples
+Examples
   - Train the Model: python CNN_MNIST.py --save_model 1 --save_weights weights.h5
   - Load and Evaluate: python CNN_MNIST.py --load_model 1 --save_weights weights.h5
 
